@@ -32,7 +32,15 @@ public class Main {
            switch (opcao){
                case 1: usuario.cadastrarUsuario();
                break;
-               case 2: usuario.ListarUsuarios();
+
+               ///Adicionar o resto da logica
+
+
+               case 7: usuario.ListarUsuarios();
+               break;
+               default: System.out.println("Comando invalido");
+               break;
+
 
 
            }

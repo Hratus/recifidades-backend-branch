@@ -22,7 +22,8 @@ public class TelaInicial {
         System.out.println("3 - Cadastrar Morador");
         System.out.println("4 - Login");
         System.out.println("5 - Listar Pontos Turisticos");
-        System.out.println("6 - Listar tividades");
+        System.out.println("6 - Listar atividades");
+        System.out.println("7 - Listar Usuarios");
         System.out.println("0 - Sair");
         System.out.println("=========================================");
         System.out.print("Digite sua opção: ");
